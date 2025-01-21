@@ -1,4 +1,9 @@
 # Tenderly Client
+<p style="background-color: black; display: inline-block; padding: 5px;">
+  <img src="files/Tenderly---Color---White-Wordmark.png" alt="Orbiter Finance" style="width: 300px;" />
+</p>
+<br>
+by [0xKoiner](https://github.com/0xkoiner)
 
 `Tenderly Client` is a scalable and flexible self-hosted client for interacting with the `Tenderly` platform. It extends functionality, enhances automation, and provides a user-friendly interface for managing blockchain transactions and simulations.
 
@@ -81,4 +86,16 @@ pip install -r requirements.txt
 ### Contributing
 
 - Contributions are welcome! Feel free to submit issues or pull requests to help improve the project.
+
+## Connect with Me
+
+<p>
+    <a href="https://www.linkedin.com/in/alex-gray-0xff/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn" style="margin-right: 5px;">
+    </a>
+    <a href="https://x.com/0xKoiner" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="30" alt="Twitter">
+    </a>
+</p>
+
 
