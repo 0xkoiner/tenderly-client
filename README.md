@@ -2,7 +2,7 @@
 <p style="background-color: black; display: inline-block; padding: 5px;">
   <img src="files/Tenderly---Color---White-Wordmark.png" alt="Orbiter Finance" style="width: 300px;" />
 </p>
-<br>
+
 by [0xKoiner](https://github.com/0xkoiner)
 
 `Tenderly Client` is a scalable and flexible self-hosted client for interacting with the `Tenderly` platform. It extends functionality, enhances automation, and provides a user-friendly interface for managing blockchain transactions and simulations.
