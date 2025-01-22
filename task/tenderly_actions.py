@@ -75,7 +75,7 @@ class TenderlyActions(Functions):
             'method': 'tenderly_addBalance',
             'params': [
                 [
-                    f'{self.client.account.address}', "0x58ce368d269F3e2C5a7B5d95Aeb5804B880CAE80"
+                    f'{self.client.account.address}', 
                 ],
                 '0x19E0C9BAB24000000000',  # 1000 ETH 0x3635c9adc5dea00000
             ],
